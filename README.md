@@ -1,2 +1,2 @@
-# Scripts_Chromedriver
-Scripts made in python for chromedriver
+# surveymonkey-script
+A script made in python to run with chromedriver to automate surveymonkey survey completions
